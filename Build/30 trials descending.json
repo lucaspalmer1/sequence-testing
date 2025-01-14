@@ -4,7 +4,7 @@
 "dataUrl": "30 trials descending.data.unityweb",
 "wasmCodeUrl": "30 trials descending.wasm.code.unityweb",
 "wasmFrameworkUrl": "30 trials descending.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
+"TOTAL_MEMORY": 536870912,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
